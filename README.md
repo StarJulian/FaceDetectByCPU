@@ -1,0 +1,2 @@
+# FaceDetectByCPU
+opencv adaboost
